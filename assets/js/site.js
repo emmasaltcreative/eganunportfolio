@@ -23,16 +23,17 @@ async function renderCaseStudyDetail() {
   const studies = await loadCaseStudies();
   const cs = studies.find((s) => s.slug === slug) || studies[0];
 
-  document.title = `${cs.title} Case Study | Social Media Portfolio`;
+  document.title = `${cs.title} Case Study | Emma GaNun`;
   root.innerHTML = `
     <p class="eyebrow">${cs.category} · ${cs.period}</p>
     <h1>${cs.title}</h1><p>${cs.summary}</p>
     <img src="${cs.heroImage}" alt="${cs.title} header" width="1400" height="820">
     <section class="panel section"><h2>Snapshot</h2><dl>${Object.entries(cs.snapshot).map(([k,v])=>`<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl></section>
-    <section class="grid grid-2"><div class="panel"><h2>Objective</h2><p>${cs.objective}</p></div><div class="panel"><h2>Results</h2><ul>${cs.results.map((r)=>`<li>${r}</li>`).join('')}</ul></div></section>
-    <section class="grid grid-2 section"><div class="panel"><h2>Strategy</h2><ul>${cs.strategy.map((r)=>`<li>${r}</li>`).join('')}</ul></div><div class="panel"><h2>Execution</h2><ul>${cs.execution.map((r)=>`<li>${r}</li>`).join('')}</ul></div></section>
-    <section class="grid grid-2">${cs.mockups.map((m,i)=>`<img src="${m}" alt="${cs.title} mockup ${i+1}" loading="lazy" width="1000" height="800">`).join('')}</section>
-    <section class="grid grid-2 section"><div class="panel"><h2>Learnings</h2><p>${cs.learnings}</p></div><div class="panel"><h2>Next Steps</h2><p>${cs.nextSteps}</p></div></section>
+    <section class="grid grid-2"><div class="panel"><h2>Objective</h2><p>${cs.objective}</p></div><div class="panel"><h2>Approach</h2><ul>${cs.approach.map((r)=>`<li>${r}</li>`).join('')}</ul></div></section>
+    <section class="grid grid-2 section"><div class="panel"><h2>What I Owned</h2><ul>${cs.owned.map((r)=>`<li>${r}</li>`).join('')}</ul></div><div class="panel"><h2>Deliverables</h2><ul>${cs.deliverables.map((r)=>`<li>${r}</li>`).join('')}</ul></div></section>
+    <section class="panel"><h2>Results</h2><ul>${cs.results.map((r)=>`<li>${r}</li>`).join('')}</ul></section>
+    <section class="grid grid-2 section">${cs.mockups.map((m,i)=>`<img src="${m}" alt="${cs.title} mockup ${i+1}" loading="lazy" width="1000" height="800">`).join('')}</section>
+    <section class="panel section"><h2>Next steps</h2><p>${cs.nextSteps}</p></section>
   `;
 }
 
