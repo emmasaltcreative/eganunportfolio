@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "eco-bloom-skincare",
+    "title": "Eco Bloom Skincare",
+    "category": "Organic Beauty",
+    "summary": "Scaled a mission-led skincare brand with a content and paid strategy that improved conversion quality and reduced CAC.",
+    "period": "Q1 2025",
+    "services": ["Paid Social", "Content Strategy", "Performance Reporting"],
+    "heroImage": "/images/case-studies/eco-bloom-skincare/header.webp",
+    "mockups": ["/images/case-studies/eco-bloom-skincare/mockup-01.webp", "/images/case-studies/eco-bloom-skincare/mockup-02.webp"],
+    "snapshot": {"industry": "Beauty & Wellness", "timeline": "12 weeks", "budget": "$14K monthly media spend", "goal": "Drive qualified ecommerce sales"},
+    "objective": "Increase first-time purchases from paid social while improving ad-to-landing-page message consistency.",
+    "strategy": ["Built a two-tier funnel with awareness and conversion creative.", "Aligned organic and paid calendars to promote proven hooks quickly.", "Introduced UGC and founder-led video variants for stronger relevance."],
+    "execution": ["Created a weekly creative test matrix.", "Reduced overlap across funnel audiences.", "Delivered concise weekly performance reporting."],
+    "results": ["38% increase in attributed purchases", "29% lower blended cost per acquisition", "2.4x improvement in retargeting ROAS"],
+    "learnings": "Founder credibility and short routine demos outperformed static visuals.",
+    "nextSteps": "Expand to Pinterest and launch seasonal message tests."
+  },
+  {
+    "slug": "petglow-dtc",
+    "title": "PetGlow DTC",
+    "category": "Pet Care",
+    "summary": "Revamped social storytelling and ad structure for a pet wellness startup, lifting retention and new customer volume.",
+    "period": "Q4 2024",
+    "services": ["Content & Copy", "Paid Social", "Analytics"],
+    "heroImage": "/images/case-studies/petglow-dtc/header.webp",
+    "mockups": ["/images/case-studies/petglow-dtc/mockup-01.webp", "/images/case-studies/petglow-dtc/mockup-02.webp"],
+    "snapshot": {"industry": "Pet Wellness", "timeline": "10 weeks", "budget": "$8K monthly media spend", "goal": "Grow subscriptions and repeat orders"},
+    "objective": "Increase subscription signups by improving post-click trust and reducing friction in offer communication.",
+    "strategy": ["Shifted messaging to pet-owner outcomes.", "Created segment-specific creative by dog life stage.", "Used creator partnerships for social proof."],
+    "execution": ["Rewrote captions for stronger hooks and value stacks.", "Launched lookalike tests from high-LTV users.", "Automated founder-friendly reporting summaries."],
+    "results": ["31% increase in subscription checkouts", "24% lift in returning customer revenue", "17% higher short-form watch time"],
+    "learnings": "Specific testimonial outcomes beat broad claims.",
+    "nextSteps": "Scale testimonial formats and test regional seasonal promotions."
+  },
+  {
+    "slug": "nomadfit-app",
+    "title": "NomadFit App",
+    "category": "Fitness Tech",
+    "summary": "Built a full-funnel launch strategy for a fitness app, from awareness content through conversion-focused retargeting.",
+    "period": "Q2 2025",
+    "services": ["Launch Strategy", "Creative Direction", "Paid Reporting"],
+    "heroImage": "/images/case-studies/nomadfit-app/header.webp",
+    "mockups": ["/images/case-studies/nomadfit-app/mockup-01.webp", "/images/case-studies/nomadfit-app/mockup-02.webp"],
+    "snapshot": {"industry": "Health & Fitness", "timeline": "8 weeks", "budget": "$20K launch spend", "goal": "Maximize paid trials with efficient CAC"},
+    "objective": "Launch paid and organic channels with a consistent value proposition and measurable conversion path.",
+    "strategy": ["Defined three messaging pillars.", "Mapped creative to funnel stages.", "Aligned landing page headlines to winning hooks."],
+    "execution": ["Ran bi-weekly creative refresh sprints.", "Implemented CAPI + UTM taxonomy.", "Produced decision-oriented stakeholder reports."],
+    "results": ["4,200 paid trials in 60 days", "22% below target CAC", "3.1% paid traffic landing-page conversion rate"],
+    "learnings": "Problem-solution narratives outperformed feature-only ads.",
+    "nextSteps": "Develop creator whitelisting and long-form educational reel tests."
+  }
+]
