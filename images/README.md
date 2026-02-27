@@ -8,6 +8,6 @@ Upload your Canva-exported assets using these exact paths:
 - `/images/case-studies/{slug}/mockup-02.webp`
 
 Included case study slugs:
-- `eco-bloom-skincare`
-- `petglow-dtc`
-- `nomadfit-app`
+- `salt-creative`
+- `horizon-home-inspections`
+- `attack-roofing-local-services`

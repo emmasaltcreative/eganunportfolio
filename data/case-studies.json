@@ -1,53 +1,137 @@
 [
   {
-    "slug": "eco-bloom-skincare",
-    "title": "Eco Bloom Skincare",
-    "category": "Organic Beauty",
-    "summary": "Scaled a mission-led skincare brand with a content and paid strategy that improved conversion quality and reduced CAC.",
-    "period": "Q1 2025",
-    "services": ["Paid Social", "Content Strategy", "Performance Reporting"],
-    "heroImage": "/images/case-studies/eco-bloom-skincare/header.webp",
-    "mockups": ["/images/case-studies/eco-bloom-skincare/mockup-01.webp", "/images/case-studies/eco-bloom-skincare/mockup-02.webp"],
-    "snapshot": {"industry": "Beauty & Wellness", "timeline": "12 weeks", "budget": "$14K monthly media spend", "goal": "Drive qualified ecommerce sales"},
-    "objective": "Increase first-time purchases from paid social while improving ad-to-landing-page message consistency.",
-    "strategy": ["Built a two-tier funnel with awareness and conversion creative.", "Aligned organic and paid calendars to promote proven hooks quickly.", "Introduced UGC and founder-led video variants for stronger relevance."],
-    "execution": ["Created a weekly creative test matrix.", "Reduced overlap across funnel audiences.", "Delivered concise weekly performance reporting."],
-    "results": ["38% increase in attributed purchases", "29% lower blended cost per acquisition", "2.4x improvement in retargeting ROAS"],
-    "learnings": "Founder credibility and short routine demos outperformed static visuals.",
-    "nextSteps": "Expand to Pinterest and launch seasonal message tests."
+    "slug": "salt-creative",
+    "title": "Salt Creative",
+    "category": "SaaS + Digital Ministry",
+    "summary": "Social and funnel support for a digital ministry assistant, with messaging designed to improve trial intent and lead nurturing quality.",
+    "period": "Recent Engagement",
+    "services": [
+      "Paid Social",
+      "Content Messaging",
+      "Funnel Support"
+    ],
+    "heroImage": "/images/case-studies/salt-creative/header.webp",
+    "mockups": [
+      "/images/case-studies/salt-creative/mockup-01.webp",
+      "/images/case-studies/salt-creative/mockup-02.webp"
+    ],
+    "snapshot": {
+      "industry": "SaaS",
+      "timeline": "Multi-phase",
+      "focus": "Trial and lead journey",
+      "goal": "Clearer positioning and stronger follow-through"
+    },
+    "objective": "Support trial and lead acquisition by clarifying value, aligning creative to audience concerns, and improving continuity from ad to funnel.",
+    "approach": [
+      "Refined message pillars around clarity, benefits, and time savings.",
+      "Tested social creative angles tied to awareness and consideration stages.",
+      "Aligned social messaging with funnel touchpoints to reduce drop-off."
+    ],
+    "owned": [
+      "Paid and organic social copy support",
+      "Creative testing recommendations",
+      "Funnel messaging updates and performance notes"
+    ],
+    "deliverables": [
+      "Ad and organic copy variants",
+      "Messaging framework by funnel stage",
+      "Regular performance summaries with next-test priorities"
+    ],
+    "results": [
+      "Improved messaging clarity across social and funnel assets",
+      "Increased confidence in creative direction through structured testing",
+      "Stronger alignment between acquisition and nurturing touchpoints"
+    ],
+    "nextSteps": "Continue testing high-intent themes and expand nurture content based on top-performing questions."
   },
   {
-    "slug": "petglow-dtc",
-    "title": "PetGlow DTC",
-    "category": "Pet Care",
-    "summary": "Revamped social storytelling and ad structure for a pet wellness startup, lifting retention and new customer volume.",
-    "period": "Q4 2024",
-    "services": ["Content & Copy", "Paid Social", "Analytics"],
-    "heroImage": "/images/case-studies/petglow-dtc/header.webp",
-    "mockups": ["/images/case-studies/petglow-dtc/mockup-01.webp", "/images/case-studies/petglow-dtc/mockup-02.webp"],
-    "snapshot": {"industry": "Pet Wellness", "timeline": "10 weeks", "budget": "$8K monthly media spend", "goal": "Grow subscriptions and repeat orders"},
-    "objective": "Increase subscription signups by improving post-click trust and reducing friction in offer communication.",
-    "strategy": ["Shifted messaging to pet-owner outcomes.", "Created segment-specific creative by dog life stage.", "Used creator partnerships for social proof."],
-    "execution": ["Rewrote captions for stronger hooks and value stacks.", "Launched lookalike tests from high-LTV users.", "Automated founder-friendly reporting summaries."],
-    "results": ["31% increase in subscription checkouts", "24% lift in returning customer revenue", "17% higher short-form watch time"],
-    "learnings": "Specific testimonial outcomes beat broad claims.",
-    "nextSteps": "Scale testimonial formats and test regional seasonal promotions."
+    "slug": "horizon-home-inspections",
+    "title": "Horizon Home Inspections",
+    "category": "Local Services",
+    "summary": "Built website and lead capture foundations, then supported local marketing assets and social setup to improve inquiry flow.",
+    "period": "Recent Engagement",
+    "services": [
+      "Website Support",
+      "Lead Capture Systems",
+      "Local Marketing Assets"
+    ],
+    "heroImage": "/images/case-studies/horizon-home-inspections/header.webp",
+    "mockups": [
+      "/images/case-studies/horizon-home-inspections/mockup-01.webp",
+      "/images/case-studies/horizon-home-inspections/mockup-02.webp"
+    ],
+    "snapshot": {
+      "industry": "Home Services",
+      "timeline": "Phased rollout",
+      "focus": "Lead capture and trust",
+      "goal": "Increase qualified local inquiries"
+    },
+    "objective": "Create a clearer path from local visibility to lead submission with practical messaging, stronger trust signals, and consistent follow-up systems.",
+    "approach": [
+      "Improved on-site messaging for clarity and trust.",
+      "Organized lead capture and response workflows.",
+      "Built foundational social assets to support local awareness and consistency."
+    ],
+    "owned": [
+      "Website copy and lead path recommendations",
+      "Lead form and follow-up system setup",
+      "Social foundation content and brand messaging support"
+    ],
+    "deliverables": [
+      "Updated core page copy and CTAs",
+      "Lead capture flow and automation setup",
+      "Local service content prompts and post copy"
+    ],
+    "results": [
+      "Reduced friction in the inquiry process",
+      "Improved consistency in service messaging across channels",
+      "Increased visibility into lead tracking and follow-up"
+    ],
+    "nextSteps": "Expand localized educational content and continue refining conversion paths based on inquiry behavior."
   },
   {
-    "slug": "nomadfit-app",
-    "title": "NomadFit App",
-    "category": "Fitness Tech",
-    "summary": "Built a full-funnel launch strategy for a fitness app, from awareness content through conversion-focused retargeting.",
-    "period": "Q2 2025",
-    "services": ["Launch Strategy", "Creative Direction", "Paid Reporting"],
-    "heroImage": "/images/case-studies/nomadfit-app/header.webp",
-    "mockups": ["/images/case-studies/nomadfit-app/mockup-01.webp", "/images/case-studies/nomadfit-app/mockup-02.webp"],
-    "snapshot": {"industry": "Health & Fitness", "timeline": "8 weeks", "budget": "$20K launch spend", "goal": "Maximize paid trials with efficient CAC"},
-    "objective": "Launch paid and organic channels with a consistent value proposition and measurable conversion path.",
-    "strategy": ["Defined three messaging pillars.", "Mapped creative to funnel stages.", "Aligned landing page headlines to winning hooks."],
-    "execution": ["Ran bi-weekly creative refresh sprints.", "Implemented CAPI + UTM taxonomy.", "Produced decision-oriented stakeholder reports."],
-    "results": ["4,200 paid trials in 60 days", "22% below target CAC", "3.1% paid traffic landing-page conversion rate"],
-    "learnings": "Problem-solution narratives outperformed feature-only ads.",
-    "nextSteps": "Develop creator whitelisting and long-form educational reel tests."
+    "slug": "attack-roofing-local-services",
+    "title": "Attack Roofing",
+    "category": "Local Services",
+    "summary": "Supported educational content, trust-building messaging, and conversion-focused calls to action for a roofing brand.",
+    "period": "Recent Engagement",
+    "services": [
+      "Content Strategy",
+      "Copywriting",
+      "Conversion Messaging"
+    ],
+    "heroImage": "/images/case-studies/attack-roofing-local-services/header.webp",
+    "mockups": [
+      "/images/case-studies/attack-roofing-local-services/mockup-01.webp",
+      "/images/case-studies/attack-roofing-local-services/mockup-02.webp"
+    ],
+    "snapshot": {
+      "industry": "Roofing",
+      "timeline": "Ongoing support",
+      "focus": "Education and conversion",
+      "goal": "Build trust and improve action-taking"
+    },
+    "objective": "Strengthen social and campaign messaging so homeowners understand services faster and feel confident taking the next step.",
+    "approach": [
+      "Built educational themes around common homeowner questions.",
+      "Structured posts and ads around proof, process, and local credibility.",
+      "Used direct CTAs to guide audiences toward quotes and inspections."
+    ],
+    "owned": [
+      "Content planning and copywriting",
+      "CTA and offer language updates",
+      "Performance review notes for ongoing optimization"
+    ],
+    "deliverables": [
+      "Content calendar themes and sample post copy",
+      "Conversion-oriented campaign messaging",
+      "Reporting summaries with recommended next actions"
+    ],
+    "results": [
+      "Improved trust-building consistency in public-facing content",
+      "Increased clarity of offers and service expectations",
+      "Stronger conversion intent from educational messaging"
+    ],
+    "nextSteps": "Test additional service-specific messaging and continue refining high-performing educational angles."
   }
 ]

@@ -32,9 +32,9 @@ Place Canva exported PNG/WebP files under:
 - `images/case-studies/{slug}/`
 
 Sample slugs included:
-- `eco-bloom-skincare`
-- `petglow-dtc`
-- `nomadfit-app`
+- `salt-creative`
+- `horizon-home-inspections`
+- `attack-roofing-local-services`
 
 ## Binary-file-safe setup
 To avoid tooling errors like **"binary files are not supported"**, this repo does not commit real image binaries.
