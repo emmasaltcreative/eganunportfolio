@@ -542,6 +542,10 @@ article[id] {
   transition: transform 0.35s var(--ease), box-shadow 0.35s var(--ease);
 }
 
+.card[hidden] {
+  display: none;
+}
+
 .card:hover {
   transform: translateY(-5px);
   box-shadow: var(--shadow);
@@ -778,19 +782,27 @@ body.nav-open {
 }
 
 @media (max-width: 760px) {
+  .site-header {
+    backdrop-filter: none;
+    background: var(--paper);
+  }
+
   .nav-toggle {
     display: inline-flex;
+    z-index: 50;
   }
 
   .site-nav {
     position: fixed;
     inset: var(--header) 0 0;
     background: var(--paper);
-    padding: 1.5rem;
+    padding: 1.5rem 1.25rem 2.5rem;
     transform: translateY(-120%);
     opacity: 0;
     pointer-events: none;
     transition: transform 0.35s var(--ease), opacity 0.35s var(--ease);
+    z-index: 45;
+    overflow: auto;
   }
 
   body.nav-open .site-nav {

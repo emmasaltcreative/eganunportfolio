@@ -123,7 +123,7 @@ async function renderCaseStudyDetail() {
     <section class="panel"><h2>Results</h2>${list(cs.results)}</section>
     <div class="split section">${cs.mockups.map((src, index) => `<img src="${src}" alt="${cs.title} visual ${index + 1}" width="1000" height="750" loading="lazy">`).join("")}</div>
     <section class="panel"><h2>What comes next</h2><p>${cs.nextSteps}</p></section>
-    <p class="section"><a class="button" href="/work/">Back to work</a> <a class="button primary" href="/contact/">Start a conversation</a></p>
+    <p class="section actions"><a class="button" href="/work/">Back to work</a> <a class="button primary" href="/contact/">Start a conversation</a></p>
   `;
 }
 
