@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/work/</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/work/case-study.html?slug=salt-creative</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/work/case-study.html?slug=horizon-home-inspections</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/work/case-study.html?slug=attack-roofing-local-services</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/paid-social/</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/content-copy/</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/about/</loc></url>
-  <url><loc>https://example-socialmanager-portfolio.netlify.app/contact/</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/work/</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/work/case-study.html?slug=oh-betty-jaletti</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/work/case-study.html?slug=d2c-portfolio</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/work/case-study.html?slug=salt-creative</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/work/case-study.html?slug=horizon-home-inspections</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/work/case-study.html?slug=ek-creative</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/approach/</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/about/</loc></url>
+  <url><loc>https://eganunportfolio.netlify.app/contact/</loc></url>
 </urlset>

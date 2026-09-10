@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example-socialmanager-portfolio.netlify.app/sitemap.xml
+Sitemap: https://eganunportfolio.netlify.app/sitemap.xml
