@@ -1,137 +1,232 @@
 [
   {
-    "slug": "salt-creative",
-    "title": "Salt Creative",
-    "category": "SaaS + Digital Ministry",
-    "summary": "Social and funnel support for a digital ministry assistant, with messaging designed to improve trial intent and lead nurturing quality.",
-    "period": "Recent Engagement",
-    "services": [
-      "Paid Social",
-      "Content Messaging",
-      "Funnel Support"
-    ],
-    "heroImage": "/images/case-studies/salt-creative/header.webp",
+    "slug": "oh-betty-jaletti",
+    "title": "Oh Betty Jaletti",
+    "category": "Brand strategy + AI enablement",
+    "summary": "Owned brand strategy end to end for a pre-launch DTC lifestyle brand, then built the AI systems that scale creative and content without losing the voice.",
+    "period": "Jul 2026 – Present",
+    "role": "Founder",
+    "featured": true,
+    "tags": ["brand", "ai", "systems"],
+    "heroImage": "/images/case-studies/oh-betty-jaletti/header.jpg",
     "mockups": [
-      "/images/case-studies/salt-creative/mockup-01.webp",
-      "/images/case-studies/salt-creative/mockup-02.webp"
+      "/images/case-studies/oh-betty-jaletti/header.jpg",
+      "/images/case-studies/oh-betty-jaletti/detail.jpg"
     ],
     "snapshot": {
-      "industry": "SaaS",
-      "timeline": "Multi-phase",
-      "focus": "Trial and lead journey",
-      "goal": "Clearer positioning and stronger follow-through"
+      "Industry": "DTC lifestyle",
+      "Focus": "Positioning, GTM, creative ops",
+      "Systems": "BettyOS + SEO content pipeline",
+      "Role": "Founder / operator"
     },
-    "objective": "Support trial and lead acquisition by clarifying value, aligning creative to audience concerns, and improving continuity from ad to funnel.",
+    "objective": "Stand up a lifestyle brand from zero: positioning, product roadmap, and go-to-market — then design AI-enabled operations that can produce on-brand work at scale.",
     "approach": [
-      "Refined message pillars around clarity, benefits, and time savings.",
-      "Tested social creative angles tied to awareness and consideration stages.",
-      "Aligned social messaging with funnel touchpoints to reduce drop-off."
+      "Set brand strategy, product direction, and GTM before layering in automation.",
+      "Directed two AI-agent systems with staged human approval gates rather than fully unsupervised generation.",
+      "Authored the prompt and context engineering, including structured knowledge files and brand-voice / claims guardrails.",
+      "Contributed directly in Python and Streamlit, including a shipped bug fix with its own regression test."
     ],
     "owned": [
-      "Paid and organic social copy support",
-      "Creative testing recommendations",
-      "Funnel messaging updates and performance notes"
+      "Brand positioning, product roadmap, and GTM",
+      "BettyOS, a Claude-powered creative-ops pipeline for campaign content",
+      "A content pipeline using OpenAI structured outputs, Shopify GraphQL, and Google Sheets sync",
+      "Quality control, human-approval checkpoints, and brand-voice guardrails"
     ],
     "deliverables": [
-      "Ad and organic copy variants",
-      "Messaging framework by funnel stage",
-      "Regular performance summaries with next-test priorities"
+      "End-to-end brand and GTM strategy",
+      "Creative-ops agent system with approval gates",
+      "SEO content pipeline with scoring, drafting, and QC",
+      "Operating knowledge files and prompt architecture"
     ],
     "results": [
-      "Improved messaging clarity across social and funnel assets",
-      "Increased confidence in creative direction through structured testing",
-      "Stronger alignment between acquisition and nurturing touchpoints"
+      "Creative and content operations designed to scale behind human review, not around it",
+      "SEO drafts scored and produced with automated QC plus approval checkpoints",
+      "Strategy and systems owned by the same person who can ship in the codebase"
     ],
-    "nextSteps": "Continue testing high-intent themes and expand nurture content based on top-performing questions."
+    "nextSteps": "Continue refining the agent workflows against live campaign needs as the brand moves from pre-launch into market."
+  },
+  {
+    "slug": "d2c-portfolio",
+    "title": "Three-brand D2C portfolio",
+    "category": "Growth strategy + UX",
+    "summary": "Set the growth baseline for a three-brand Shopify portfolio, then rebuilt navigation and merchandising around shopper intent after a full funnel audit.",
+    "period": "Jun 2026",
+    "role": "Growth / Performance Marketing Manager (Contract)",
+    "featured": true,
+    "tags": ["growth", "ux", "ai"],
+    "heroImage": "/images/case-studies/d2c-portfolio/header.jpg",
+    "mockups": [
+      "/images/case-studies/d2c-portfolio/header.jpg",
+      "/images/case-studies/d2c-portfolio/detail.jpg"
+    ],
+    "snapshot": {
+      "Industry": "D2C e-commerce",
+      "Scope": "Three Shopify brands",
+      "Diagnosis": "0.46% site-wide conversion",
+      "Modeled lift": "Up to +30% CVR / +25% AOV"
+    },
+    "objective": "Own growth strategy across a three-brand portfolio: establish the performance baseline, prioritize the roadmap, and fix the structural leaks in analytics, merchandising, and product discovery.",
+    "approach": [
+      "Led a full GA4 + Shopify funnel audit and isolated where demand was leaking.",
+      "Found 26K+ product-page sessions converting at 0.22%, a collection drawing ~600 sessions at 0% conversion, and 404s bleeding traffic.",
+      "Rebuilt navigation and merchandising around shopper intent instead of internal catalog logic.",
+      "Wrote a portfolio-wide Product Organization SOP and metadata governance system, then directed human-in-the-loop AI workflows for catalog cleanup."
+    ],
+    "owned": [
+      "Growth strategy, baseline, and prioritized roadmap",
+      "Analytics, merchandising, SEO, and AI-readiness infrastructure",
+      "Navigation and merchandising IA across all three brands",
+      "PDP optimization framework and metadata governance"
+    ],
+    "deliverables": [
+      "Funnel audit with conversion leak diagnosis",
+      "Intent-based navigation and merchandising rebuild",
+      "PDP framework modeled to lift conversion up to 30% and AOV up to 25%",
+      "Product Organization SOP and HITL AI catalog cleanup"
+    ],
+    "results": [
+      "Largest conversion leaks identified and prioritized instead of treated as generic CRO tickets",
+      "Shopper-intent architecture in place across three storefronts",
+      "Ad-feed quality, organic search, and AI/semantic discoverability improved through metadata governance"
+    ],
+    "nextSteps": "Sequence the PDP and collection tests against the modeled lift, then keep catalog hygiene on the HITL automation loop."
+  },
+  {
+    "slug": "salt-creative",
+    "title": "Salt Creative",
+    "category": "GTM + paid + AI",
+    "summary": "Helped bring a B2B SaaS product to market: positioning, acquisition, full-funnel optimization, and internal AI automations that cut manual work 40–70%.",
+    "period": "Jan 2025 – Present",
+    "role": "AI Product & Marketing Strategist (Contract)",
+    "featured": true,
+    "tags": ["paid", "ai", "growth"],
+    "heroImage": "/images/case-studies/salt-creative/header.jpg",
+    "mockups": [
+      "/images/case-studies/salt-creative/header.jpg",
+      "/images/case-studies/salt-creative/detail.jpg"
+    ],
+    "snapshot": {
+      "Industry": "B2B SaaS",
+      "Paid": "Sub-$2 leads on Meta",
+      "Value": "$300+ average lead value",
+      "Ops": "40–70% less manual work"
+    },
+    "objective": "Play a core strategic role in bringing a B2B SaaS product to market — pairing positioning and acquisition with the internal systems that make growth repeatable.",
+    "approach": [
+      "Partnered with engineering and leadership on positioning, acquisition strategy, and GTM execution.",
+      "Owned paid acquisition on Meta with a tight testing cadence in a niche B2B market.",
+      "Optimized the full funnel across ads, landing flows, and onboarding rather than treating media as a silo.",
+      "Architected AI-powered internal automations and operated as a cross-functional growth and CX lead alongside engineering."
+    ],
+    "owned": [
+      "Go-to-market strategy with product and engineering",
+      "Meta acquisition, targeting, and creative iteration",
+      "Full-funnel optimization and creative testing strategy",
+      "Internal AI automations for growth and CX operations"
+    ],
+    "deliverables": [
+      "Positioning and acquisition strategy",
+      "Repeatable creative testing system",
+      "Landing and onboarding conversion work",
+      "AI workflow architecture that reduced manual workload"
+    ],
+    "results": [
+      "Consistently generated sub-$2 leads in a niche B2B market",
+      "Built and sustained lead flow tied to an estimated $300+ average lead value",
+      "AI-powered internal automations cut manual workload 40–70%"
+    ],
+    "nextSteps": "Keep converting creative winners into a durable testing library and expand the automations that protect CX quality as volume grows."
   },
   {
     "slug": "horizon-home-inspections",
     "title": "Horizon Home Inspections",
-    "category": "Local Services",
-    "summary": "Built website and lead capture foundations, then supported local marketing assets and social setup to improve inquiry flow.",
-    "period": "Recent Engagement",
-    "services": [
-      "Website Support",
-      "Lead Capture Systems",
-      "Local Marketing Assets"
-    ],
-    "heroImage": "/images/case-studies/horizon-home-inspections/header.webp",
+    "category": "Marketing ops + product UX",
+    "summary": "Architected the marketing site, booking UX, and lifecycle systems for a tech-forward service launch — from calendar booking to CRM nurture.",
+    "period": "Sep 2025 – Mar 2026",
+    "role": "Marketing Operations & Systems Consultant (Contract)",
+    "featured": false,
+    "tags": ["systems", "ux"],
+    "heroImage": "/images/case-studies/horizon-home-inspections/header.jpg",
     "mockups": [
-      "/images/case-studies/horizon-home-inspections/mockup-01.webp",
-      "/images/case-studies/horizon-home-inspections/mockup-02.webp"
+      "/images/case-studies/horizon-home-inspections/header.jpg",
+      "/images/case-studies/horizon-home-inspections/detail.jpg"
     ],
     "snapshot": {
-      "industry": "Home Services",
-      "timeline": "Phased rollout",
-      "focus": "Lead capture and trust",
-      "goal": "Increase qualified local inquiries"
+      "Industry": "Home services",
+      "Stack": "Vite, React, Tailwind, Supabase",
+      "UX": "Calendar-integrated booking",
+      "Ops": "CRM + email/SMS lifecycle"
     },
-    "objective": "Create a clearer path from local visibility to lead submission with practical messaging, stronger trust signals, and consistent follow-up systems.",
+    "objective": "Own the digital systems strategy for a service company’s launch so inquiries, booking, and follow-up could run without a heavy admin load.",
     "approach": [
-      "Improved on-site messaging for clarity and trust.",
-      "Organized lead capture and response workflows.",
-      "Built foundational social assets to support local awareness and consistency."
+      "Architected and shipped the marketing site and backend on Vite/React, Tailwind, Supabase, and Netlify serverless functions.",
+      "Designed calendar-integrated appointment booking, automated email confirmations, and SEO-optimized city landing pages.",
+      "Built CRM and lifecycle automation across email/SMS, scheduling, and nurturing.",
+      "Established a reporting cadence to improve pipeline health and referrals."
     ],
     "owned": [
-      "Website copy and lead path recommendations",
-      "Lead form and follow-up system setup",
-      "Social foundation content and brand messaging support"
+      "Digital systems strategy and site architecture",
+      "Booking UX and confirmation flows",
+      "CRM, lifecycle, and end-to-end customer funnels",
+      "Reporting cadence for pipeline and referrals"
     ],
     "deliverables": [
-      "Updated core page copy and CTAs",
-      "Lead capture flow and automation setup",
-      "Local service content prompts and post copy"
+      "Launched marketing site and backend",
+      "Appointment booking with automated confirmations",
+      "City landing pages for local SEO",
+      "Lifecycle automation for quotes, follow-ups, and nurture"
     ],
     "results": [
-      "Reduced friction in the inquiry process",
-      "Improved consistency in service messaging across channels",
-      "Increased visibility into lead tracking and follow-up"
+      "A launch stack that connected discovery, booking, and follow-up in one system",
+      "Admin time reduced through automation instead of extra headcount",
+      "Clearer pipeline visibility for conversion and referrals"
     ],
-    "nextSteps": "Expand localized educational content and continue refining conversion paths based on inquiry behavior."
+    "nextSteps": "Keep tightening booking conversion against local landing-page demand and expand referral loops from completed inspections."
   },
   {
-    "slug": "attack-roofing-local-services",
-    "title": "Attack Roofing",
-    "category": "Local Services",
-    "summary": "Supported educational content, trust-building messaging, and conversion-focused calls to action for a roofing brand.",
-    "period": "Recent Engagement",
-    "services": [
-      "Content Strategy",
-      "Copywriting",
-      "Conversion Messaging"
-    ],
-    "heroImage": "/images/case-studies/attack-roofing-local-services/header.webp",
+    "slug": "ek-creative",
+    "title": "EK Creative",
+    "category": "Account management + ad strategy",
+    "summary": "Promoted from account manager to advertising strategist. Owned client relationships, then directed multi-channel paid social strategy across Meta and TikTok.",
+    "period": "Mar 2021 – Aug 2022",
+    "role": "Advertising Strategist, promoted from Account Manager",
+    "featured": false,
+    "tags": ["paid", "account"],
+    "heroImage": "/images/case-studies/ek-creative/header.jpg",
     "mockups": [
-      "/images/case-studies/attack-roofing-local-services/mockup-01.webp",
-      "/images/case-studies/attack-roofing-local-services/mockup-02.webp"
+      "/images/case-studies/ek-creative/header.jpg",
+      "/images/case-studies/ek-creative/detail.jpg"
     ],
     "snapshot": {
-      "industry": "Roofing",
-      "timeline": "Ongoing support",
-      "focus": "Education and conversion",
-      "goal": "Build trust and improve action-taking"
+      "Industry": "E-commerce agency",
+      "Channels": "Meta + TikTok",
+      "Arc": "AM → Advertising Strategist",
+      "Focus": "Funnel strategy and pacing"
     },
-    "objective": "Strengthen social and campaign messaging so homeowners understand services faster and feel confident taking the next step.",
+    "objective": "Give e-commerce clients a clearer path from relationship to results: align on goals, then run paid social as a funnel with pacing discipline instead of disconnected campaigns.",
     "approach": [
-      "Built educational themes around common homeowner questions.",
-      "Structured posts and ads around proof, process, and local credibility.",
-      "Used direct CTAs to guide audiences toward quotes and inspections."
+      "As account manager, owned relationships with online retail owners and translated audience data into recommendations.",
+      "Aligned goals, priorities, and success metrics before asking creative or media to work harder.",
+      "As advertising strategist, directed multi-channel paid social funnel strategy across prospecting and retargeting.",
+      "Turned KPI analysis (ROAS, CTR, CPC) into repeatable playbooks and shifted spend on ROI signals."
     ],
     "owned": [
-      "Content planning and copywriting",
-      "CTA and offer language updates",
-      "Performance review notes for ongoing optimization"
+      "Client relationships, goal alignment, and reporting",
+      "Audience insights into strategic recommendations",
+      "Meta + TikTok funnel strategy, budget pacing, and optimization",
+      "Performance playbooks for ongoing testing"
     ],
     "deliverables": [
-      "Content calendar themes and sample post copy",
-      "Conversion-oriented campaign messaging",
-      "Reporting summaries with recommended next actions"
+      "Account plans and success metrics",
+      "Prospecting and retargeting architecture",
+      "Budget pacing and reallocation recommendations",
+      "KPI playbooks for ROAS, CTR, and CPC"
     ],
     "results": [
-      "Improved trust-building consistency in public-facing content",
-      "Increased clarity of offers and service expectations",
-      "Stronger conversion intent from educational messaging"
+      "Promoted from Account Manager to Advertising Strategist",
+      "Clients received strategy tied to funnel stage, not only ad-level tweaks",
+      "Optimization decisions documented as playbooks instead of one-off instincts"
     ],
-    "nextSteps": "Test additional service-specific messaging and continue refining high-performing educational angles."
+    "nextSteps": "This agency chapter is the foundation for later GTM, UX, and AI systems work: start with the relationship, then build the machine."
   }
 ]

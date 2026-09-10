@@ -1,13 +1,11 @@
-# Image placeholders
+# Images
 
-Upload your Canva-exported assets using these exact paths:
+Editorial photography generated for this portfolio.
 
-- `/images/og-default.webp`
-- `/images/case-studies/{slug}/header.webp`
-- `/images/case-studies/{slug}/mockup-01.webp`
-- `/images/case-studies/{slug}/mockup-02.webp`
-
-Included case study slugs:
-- `salt-creative`
-- `horizon-home-inspections`
-- `attack-roofing-local-services`
+- `/images/hero.jpg`
+- `/images/about.jpg`
+- `/images/contact.jpg`
+- `/images/og-default.jpg`
+- `/images/practice/`
+- `/images/case-studies/{slug}/header.jpg`
+- `/images/case-studies/{slug}/detail.jpg`
